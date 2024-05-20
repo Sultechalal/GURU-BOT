@@ -21,7 +21,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
         true                        
     ];
     global.owner.push(owner);
-['2348100246557' , 'Sultech Halal' , ]
+['2348100246557' , 'Sultech Halal' , true ]
 }
 
 //global.pairingNumber = "" //put your bot number here
